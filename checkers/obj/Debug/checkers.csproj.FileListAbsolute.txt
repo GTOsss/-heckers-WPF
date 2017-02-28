@@ -1,0 +1,42 @@
+c:\users\тимофей\documents\visual studio 2015\Projects\checkers\checkers\bin\Debug\checkers.exe.config
+C:\Users\Тимофей\Documents\Visual Studio 2015\Projects\checkers\checkers\obj\Debug\checkers.csprojResolveAssemblyReference.cache
+C:\Users\Тимофей\Documents\Visual Studio 2015\Projects\checkers\checkers\obj\Debug\MainWindow.g.cs
+C:\Users\Тимофей\Documents\Visual Studio 2015\Projects\checkers\checkers\obj\Debug\App.g.cs
+C:\Users\Тимофей\Documents\Visual Studio 2015\Projects\checkers\checkers\obj\Debug\checkers_MarkupCompile.cache
+C:\Users\Тимофей\Documents\Visual Studio 2015\Projects\checkers\checkers\obj\Debug\checkers_MarkupCompile.lref
+C:\Users\Тимофей\Documents\Visual Studio 2015\Projects\checkers\checkers\bin\Debug\checkers.exe
+C:\Users\Тимофей\Documents\Visual Studio 2015\Projects\checkers\checkers\bin\Debug\checkers.pdb
+C:\Users\Тимофей\Documents\Visual Studio 2015\Projects\checkers\checkers\obj\Debug\MainWindow.baml
+C:\Users\Тимофей\Documents\Visual Studio 2015\Projects\checkers\checkers\obj\Debug\checkers.g.resources
+C:\Users\Тимофей\Documents\Visual Studio 2015\Projects\checkers\checkers\obj\Debug\checkers.Properties.Resources.resources
+C:\Users\Тимофей\Documents\Visual Studio 2015\Projects\checkers\checkers\obj\Debug\checkers.csproj.GenerateResource.Cache
+C:\Users\Тимофей\Documents\Visual Studio 2015\Projects\checkers\checkers\obj\Debug\checkers.exe
+C:\Users\Тимофей\Documents\Visual Studio 2015\Projects\checkers\checkers\obj\Debug\checkers.pdb
+E:\Сетевые шашки\checkers\checkers\bin\Debug\checkers.exe.config
+E:\Сетевые шашки\checkers\checkers\obj\Debug\checkers.exe
+E:\Сетевые шашки\checkers\checkers\obj\Debug\checkers.pdb
+E:\Сетевые шашки\checkers\checkers\bin\Debug\checkers.exe
+E:\Сетевые шашки\checkers\checkers\bin\Debug\checkers.pdb
+E:\Сетевые шашки\checkers\checkers\obj\Debug\checkers.csprojResolveAssemblyReference.cache
+E:\Сетевые шашки\checkers\checkers\obj\Debug\MainWindow.g.cs
+E:\Сетевые шашки\checkers\checkers\obj\Debug\App.g.cs
+E:\Сетевые шашки\checkers\checkers\obj\Debug\checkers_MarkupCompile.cache
+E:\Сетевые шашки\checkers\checkers\obj\Debug\checkers_MarkupCompile.lref
+E:\Сетевые шашки\checkers\checkers\obj\Debug\MainWindow.baml
+E:\Сетевые шашки\checkers\checkers\obj\Debug\checkers.g.resources
+E:\Сетевые шашки\checkers\checkers\obj\Debug\checkers.Properties.Resources.resources
+E:\Сетевые шашки\checkers\checkers\obj\Debug\checkers.csproj.GenerateResource.Cache
+C:\Users\Тимофей\Documents\Visual Studio 2015\Projects\checkers_v0.6\checkers\checkers\bin\Debug\checkers.exe.config
+C:\Users\Тимофей\Documents\Visual Studio 2015\Projects\checkers_v0.6\checkers\checkers\obj\Debug\checkers.exe
+C:\Users\Тимофей\Documents\Visual Studio 2015\Projects\checkers_v0.6\checkers\checkers\obj\Debug\checkers.pdb
+C:\Users\Тимофей\Documents\Visual Studio 2015\Projects\checkers_v0.6\checkers\checkers\bin\Debug\checkers.exe
+C:\Users\Тимофей\Documents\Visual Studio 2015\Projects\checkers_v0.6\checkers\checkers\bin\Debug\checkers.pdb
+C:\Users\Тимофей\Documents\Visual Studio 2015\Projects\checkers_v0.6\checkers\checkers\obj\Debug\checkers.csprojResolveAssemblyReference.cache
+C:\Users\Тимофей\Documents\Visual Studio 2015\Projects\checkers_v0.6\checkers\checkers\obj\Debug\MainWindow.g.cs
+C:\Users\Тимофей\Documents\Visual Studio 2015\Projects\checkers_v0.6\checkers\checkers\obj\Debug\App.g.cs
+C:\Users\Тимофей\Documents\Visual Studio 2015\Projects\checkers_v0.6\checkers\checkers\obj\Debug\checkers_MarkupCompile.cache
+C:\Users\Тимофей\Documents\Visual Studio 2015\Projects\checkers_v0.6\checkers\checkers\obj\Debug\checkers_MarkupCompile.lref
+C:\Users\Тимофей\Documents\Visual Studio 2015\Projects\checkers_v0.6\checkers\checkers\obj\Debug\MainWindow.baml
+C:\Users\Тимофей\Documents\Visual Studio 2015\Projects\checkers_v0.6\checkers\checkers\obj\Debug\checkers.g.resources
+C:\Users\Тимофей\Documents\Visual Studio 2015\Projects\checkers_v0.6\checkers\checkers\obj\Debug\checkers.Properties.Resources.resources
+C:\Users\Тимофей\Documents\Visual Studio 2015\Projects\checkers_v0.6\checkers\checkers\obj\Debug\checkers.csproj.GenerateResource.Cache
